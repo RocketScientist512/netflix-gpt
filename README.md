@@ -1,2 +1,2 @@
-# react
-This is my react project
+# building a netflix-gpt project
+This is my gpt project
